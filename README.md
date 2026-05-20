@@ -14,6 +14,9 @@ To add to the list of quotes: EDIT
 
 ## The Quotes
 
+"I like my money where I can see it: hanging in my closet." — Carrie Bradshaw
+
+
 > As we work to create light for others, we naturally light our own way.
 
 Mary Anne Radmacher
@@ -571,5 +574,4 @@ Ace Ventura
 > There’s always free cheese in the mousetrap, baby.
 
 Tom Waits
-
 
